@@ -48,4 +48,6 @@ http://localhost:8080/limits
 
 # Readme Note 3
 ## Config Server URL
-http://localhost:8888
+http://localhost:8888/limits-service/dev
+http://localhost:8888/limits-service/qa
+http://localhost:8888/limits-service/default
