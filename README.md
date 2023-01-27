@@ -45,3 +45,7 @@
 # Readme Note 2
 ## Limits-Service URL
 http://localhost:8080/limits
+
+# Readme Note 3
+## Config Server URL
+http://localhost:8888
